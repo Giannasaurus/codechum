@@ -1,5 +1,6 @@
 /* Invoice Generation
   Create a program that generates an invoice with details such as the customer name of "John Doe", order ID of 12345, and total amount of $99.99, using placeholders. Output should look like:
+  
   Invoice for Customer: John Doe
   Order ID: 12345
   Total Amount: $99.99
