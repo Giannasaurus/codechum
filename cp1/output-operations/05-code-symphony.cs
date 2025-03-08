@@ -1,5 +1,6 @@
 /* CODE Symphony
   Write a program that showcases a pattern of the word "CODE" using the letters C, O, D, and E.
+  
   Sample Output 1
     > CCCCC   OOOOO   DDDDD   EEEEE
       C       O   O   D   D   E
