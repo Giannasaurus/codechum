@@ -8,11 +8,11 @@
   University:    ABC University
   
   Sample Output 1
-    > Database Record
-      \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-      Name:		John Doe
-      Email:		john.doe@example.com
-      University:	ABC University */
+  > Database Record
+    \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+    Name:		John Doe
+    Email:		john.doe@example.com
+    University:	ABC University */
 
 using System; 
 
