@@ -13,16 +13,16 @@
   Character A:    "That's great to hear."
 
   Sample Output 1
-    > Character A:	"Hello there!"
-      Character B:	'Hi! How are you?'
-      Character A:	'I'm doing great.' Thanks for asking!
-      Character C:	"Hey, what's going on?"
-      Character B:	"We were just catching up."
-      Character A:	"Yeah, it's been a while."
-      Character C:	"Nice to see you both!"
-      Character B:	"Likewise! How have you been?"
-      Character C:	"I've been good. Thanks!"
-      Character A:	"That's great to hear." */
+  > Character A:	"Hello there!"
+    Character B:	'Hi! How are you?'
+    Character A:	'I'm doing great.' Thanks for asking!
+    Character C:	"Hey, what's going on?"
+    Character B:	"We were just catching up."
+    Character A:	"Yeah, it's been a while."
+    Character C:	"Nice to see you both!"
+    Character B:	"Likewise! How have you been?"
+    Character C:	"I've been good. Thanks!"
+    Character A:	"That's great to hear." */
 
 using System;
 
