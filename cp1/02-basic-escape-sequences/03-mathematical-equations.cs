@@ -1,5 +1,6 @@
 /* Mathematical Equations
   Write a program that showcases five mathematical equations, each formatted with appropriate spacing and symbols. Employ horizontal tabs"\t" to align the components of each equation with a newline.
+  
   Sample Output 1
     > Equations:
       5	+	3	=	8
