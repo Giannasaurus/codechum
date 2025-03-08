@@ -6,9 +6,9 @@
   Total Amount: $99.99
 
   Sample Output 1
-    > Invoice for Customer: John Doe
-      Order ID: 12345
-      Total Amount: $99.99 */
+  > Invoice for Customer: John Doe
+    Order ID: 12345
+    Total Amount: $99.99 */
 
 using System;
 
