@@ -2,12 +2,12 @@
   Write a program that showcases five mathematical equations, each formatted with appropriate spacing and symbols. Employ horizontal tabs"\t" to align the components of each equation with a newline.
   
   Sample Output 1
-    > Equations:
-      5	+	3	=	8
-      12	-	7	=	5
-      4	*	6	=	24
-      20	/	5	=	4
-      10	%	3	=	1 */
+  > Equations:
+    5	+	3	=	8
+    12	-	7	=	5
+    4	*	6	=	24
+    20	/	5	=	4
+    10	%	3	=	1 */
 
 using System;
 
