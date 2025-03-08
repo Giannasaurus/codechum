@@ -1,5 +1,6 @@
 /* Engaging Character Dialogues
   Write a program that showcases dynamic dialogues between multiple characters, using escape sequences to accurately represent their conversations. Print out the dialogues with proper formatting, including appropriate spacing, quotation marks, and the correct usage of escape sequences for special characters. The following text is the dialogue to be printed:
+  
   Character A:    "Hello there!"
   Character B:    'Hi! How are you?'
   Character A:    'I'm doing great.' Thanks for asking!
