@@ -7,7 +7,7 @@
   Red                      Violet
 
   Sample Output 1
-    >
+  >
               Green
         Yellow     Brown
     Orange             Indigo
