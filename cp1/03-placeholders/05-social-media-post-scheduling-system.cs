@@ -20,21 +20,21 @@
   The program should display various post information using placeholders.
 
   Sample Output 1
-    > Post Scheduled:
-      Content: Exciting news! Our new product is launching soon.
-      Date: 2023-06-30
-      Time: 10:00 AM
-      Reach: 2500.50
-      Engagement: 0.75
-      Duration: 1.50
-      Cost: 50.25
-      Category: N
-      Status: S
-      Author Name: John Doe
-      Author Email: johndoe@example.com
-      Platform: Facebook
-      Audience: Targeted
-      Budget: 1000.00 */
+  > Post Scheduled:
+    Content: Exciting news! Our new product is launching soon.
+    Date: 2023-06-30
+    Time: 10:00 AM
+    Reach: 2500.50
+    Engagement: 0.75
+    Duration: 1.50
+    Cost: 50.25
+    Category: N
+    Status: S
+    Author Name: John Doe
+    Author Email: johndoe@example.com
+    Platform: Facebook
+    Audience: Targeted
+    Budget: 1000.00 */
 
 using System;
 
