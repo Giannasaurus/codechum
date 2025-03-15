@@ -26,4 +26,8 @@ class MainClass {
 
 /** passed test cases
   * test case 1:
-    > Hello, World! */
+    > 2
+      4
+      6
+      8
+      10 */
