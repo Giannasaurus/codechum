@@ -1,20 +1,20 @@
-/* Book Reservation Details
-  Create a program that displays the reservation details for a book titled "The Great Gatsby" by F. Scott Fitzgerald. The program should utilize appropriate placeholders for each detail. Output should look like:
+/** Book Reservation Details
+    Create a program that displays the reservation details for a book titled "The Great Gatsby" by F. Scott Fitzgerald. The program should utilize appropriate placeholders for each detail. Output should look like:
 
-  You have successfully reserved the book 'The Great Gatsby' by F. Scott Fitzgerald.
-  Year of Publication: 1925
-  Genre: Fiction
-  Library: Central Library
-  Member ID: 12345
-  Return Date: June 30, 2023
-
-  Sample Output 1
-  > You have successfully reserved the book 'The Great Gatsby' by F. Scott Fitzgerald.
+    You have successfully reserved the book 'The Great Gatsby' by F. Scott Fitzgerald.
     Year of Publication: 1925
     Genre: Fiction
     Library: Central Library
     Member ID: 12345
-    Return Date: June 30, 2023 */
+    Return Date: June 30, 2023
+
+    * Sample Output 1
+      > You have successfully reserved the book 'The Great Gatsby' by F. Scott Fitzgerald.
+        Year of Publication: 1925
+        Genre: Fiction
+        Library: Central Library
+        Member ID: 12345
+        Return Date: June 30, 2023 */
 
 using System;
 
@@ -28,3 +28,12 @@ namespace Program {
         }
     }
 }
+
+/** passed test cases
+  * test case 1:
+    > You have successfully reserved the book 'The Great Gatsby' by F. Scott Fitzgerald.
+      Year of Publication: 1925
+      Genre: Fiction
+      Library: Central Library
+      Member ID: 12345
+      Return Date: June 30, 2023 */
