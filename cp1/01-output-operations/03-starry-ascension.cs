@@ -1,17 +1,18 @@
-/* Starry Ascension
-  Write a program that generates a pattern of stars, ascending in quantity, as depicted below:
+/** Starry Ascension
+
+    Write a program that generates a pattern of stars, ascending in quantity, as depicted below:
     *
     **
     ***
     ****
     *****
 
-  Sample Output 1
-  > *
-    **
-    ***
-    ****
-    ***** */
+    * Sample Output 1
+      > *
+        **
+        ***
+        ****
+        ***** */
 
 using System;
 
@@ -26,3 +27,11 @@ class MainClass {
         }
     }
 }
+
+/** passed test case
+  * test case 1:
+    > *
+      **
+      ***
+      ****
+      ***** */
