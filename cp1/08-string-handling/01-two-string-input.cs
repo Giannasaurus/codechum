@@ -58,4 +58,4 @@ class Program {
   * test case 6:
     Enter the first string: Chum
     Enter the second string: Code
-    Chum Code Chum
+    Chum Code Chum */
