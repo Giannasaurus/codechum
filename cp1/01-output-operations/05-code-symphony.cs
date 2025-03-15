@@ -1,12 +1,12 @@
-/* CODE Symphony
-  Write a program that showcases a pattern of the word "CODE" using the letters C, O, D, and E.
+/** CODE Symphony
+    Write a program that showcases a pattern of the word "CODE" using the letters C, O, D, and E.
   
-  Sample Output 1
-  > CCCCC   OOOOO   DDDDD   EEEEE
-    C       O   O   D   D   E
-    C       O   O   D   D   EEE
-    C       O   O   D   D   E
-    CCCCC   OOOOO   DDDDD   EEEEE */
+    * Sample Output 1
+      > CCCCC   OOOOO   DDDDD   EEEEE
+        C       O   O   D   D   E
+        C       O   O   D   D   EEE
+        C       O   O   D   D   E
+        CCCCC   OOOOO   DDDDD   EEEEE */
 
 using System;
 
@@ -19,3 +19,11 @@ class MainClass {
         Console.WriteLine("CCCCC   OOOOO   DDDDD   EEEEE");
     }
 }
+
+/** passed test cases
+  * test case 1:
+    > CCCCC   OOOOO   DDDDD   EEEEE
+      C       O   O   D   D   E
+      C       O   O   D   D   EEE
+      C       O   O   D   D   E
+      CCCCC   OOOOO   DDDDD   EEEEE */
