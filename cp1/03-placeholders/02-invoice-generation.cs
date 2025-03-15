@@ -27,4 +27,4 @@ namespace Program {
   * test case 1:
     > Invoice for Customer: John Doe
       Order ID: 12345
-T     Total Amount: $99.99 */
+      Total Amount: $99.99 */
