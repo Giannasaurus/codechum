@@ -12,3 +12,7 @@ class MainClass {
         Console.WriteLine("Hello, World!");
     }
 }
+
+/** passed test cases
+  * test case 1:
+    > Hello, World! */
