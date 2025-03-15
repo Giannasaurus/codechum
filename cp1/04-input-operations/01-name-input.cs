@@ -29,3 +29,11 @@ class MainClass {
         Console.Write($"Welcome, {name}!");
     }
 }
+
+/** passed test cases
+  * test case 1:
+  * test case 1:
+  * test case 1:
+  * test case 1:
+  * test case 1:
+  * test case 1:
