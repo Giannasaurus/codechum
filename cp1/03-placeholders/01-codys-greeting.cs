@@ -1,8 +1,8 @@
-/* Cody's Greeting
-  Write a program that prints a greeting message of Cody with a string placeholder for its "Cody".
+/** Cody's Greeting
+    Write a program that prints a greeting message of Cody with a string placeholder for its "Cody".
   
-  Sample Output 1
-  > Hello, my name is Cody! */
+    * Sample Output 1
+      > Hello, my name is Cody! */
 
 using System;
 
@@ -14,3 +14,7 @@ namespace Program {
         }
     }
 }
+
+/** passed test cases
+  * test case 1:
+    > Hello, my name is Cody! */
