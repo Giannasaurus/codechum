@@ -1,14 +1,14 @@
-/* Invoice Generation
-  Create a program that generates an invoice with details such as the customer name of "John Doe", order ID of 12345, and total amount of $99.99, using placeholders. Output should look like:
+/** Invoice Generation
+    Create a program that generates an invoice with details such as the customer name of "John Doe", order ID of 12345, and total amount of $99.99, using placeholders. Output should look like:
   
-  Invoice for Customer: John Doe
-  Order ID: 12345
-  Total Amount: $99.99
-
-  Sample Output 1
-  > Invoice for Customer: John Doe
+    Invoice for Customer: John Doe
     Order ID: 12345
-    Total Amount: $99.99 */
+    Total Amount: $99.99
+
+    * Sample Output 1
+      > Invoice for Customer: John Doe
+        Order ID: 12345
+        Total Amount: $99.99 */
 
 using System;
 
@@ -22,3 +22,9 @@ namespace Program {
         }
     }
 }
+
+/** passed test cases
+  * test case 1:
+    > Invoice for Customer: John Doe
+      Order ID: 12345
+T     Total Amount: $99.99 */
