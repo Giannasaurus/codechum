@@ -1,29 +1,7 @@
-/* Email Details
-  Write a program that prints the output below:
+/** Email Details
+    Write a program that prints the output below:
 
-  Dear John, I hope this email finds you well.
-  I wanted to reach out and say hello.
-  I hope you are doing well and enjoying your day.
-  It's been a while since we last spoke, and I wanted to catch up with you.
-  Let's plan to meet up soon and have a great time together!
-  Subject: Greetings
-  Sender: Jane
-  Version: 1.2
-  Discount: 10.50%
-  Status: A
-  Code: ABCD123
-  Location: City XYZ
-  Age: 30
-  Company: ABC Corporation
-  Website: www.example.com
-  Phone: +1 123-456-7890
-  Job Title: Software Engineer
-  Department: Engineering
-  
-  The program should use placeholders to present the information accurately.
-
-  Sample Output 1
-  > Dear John, I hope this email finds you well.
+    Dear John, I hope this email finds you well.
     I wanted to reach out and say hello.
     I hope you are doing well and enjoying your day.
     It's been a while since we last spoke, and I wanted to catch up with you.
@@ -40,7 +18,29 @@
     Website: www.example.com
     Phone: +1 123-456-7890
     Job Title: Software Engineer
-    Department: Engineering */
+    Department: Engineering
+    
+    The program should use placeholders to present the information accurately.
+
+    * Sample Output 1
+      > Dear John, I hope this email finds you well.
+        I wanted to reach out and say hello.
+        I hope you are doing well and enjoying your day.
+        It's been a while since we last spoke, and I wanted to catch up with you.
+        Let's plan to meet up soon and have a great time together!
+        Subject: Greetings
+        Sender: Jane
+        Version: 1.2
+        Discount: 10.50%
+        Status: A
+        Code: ABCD123
+        Location: City XYZ
+        Age: 30
+        Company: ABC Corporation
+        Website: www.example.com
+        Phone: +1 123-456-7890
+        Job Title: Software Engineer
+        Department: Engineering */
 
 using System;
 
@@ -54,3 +54,24 @@ namespace Program {
         }
     }
 }
+
+/** passed test cases
+  * test case 1:
+    > Dear John, I hope this email finds you well.
+      I wanted to reach out and say hello.
+      I hope you are doing well and enjoying your day.
+      It's been a while since we last spoke, and I wanted to catch up with you.
+      Let's plan to meet up soon and have a great time together!
+      Subject: Greetings
+      Sender: Jane
+      Version: 1.2
+      Discount: 10.50%
+      Status: A
+      Code: ABCD123
+      Location: City XYZ
+      Age: 30
+      Company: ABC Corporation
+      Website: www.example.com
+      Phone: +1 123-456-7890
+      Job Title: Software Engineer
+      Department: Engineering */
