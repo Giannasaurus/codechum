@@ -1,8 +1,8 @@
-/* 1 + 1
-  Write a program that adds two 1s and displays their output.
+/** 1 + 1
+    Write a program that adds two 1s and displays their output.
   
-  Sample Output 1
-  > 1 + 1 = 2 */
+    * Sample Output 1
+      > 1 + 1 = 2 */
 
 using System;
 
@@ -16,3 +16,7 @@ class MainClass {
         Console.WriteLine($"{num1} + {num2} = {sum}");
     }
 }
+
+/** passed test cases
+  * test case 1:
+    > 1 + 1 = 2 */
