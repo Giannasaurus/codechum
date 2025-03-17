@@ -1,10 +1,8 @@
 /** Sentence Length
-by CodeChum Admin
+    Write a program that calculates and prints the length of the given string in the code editor using the predefined string function.
 
-Write a program that calculates and prints the length of the given string in the code editor using the predefined string function.
-Sample Output 1
-
-Length of the string: 19 */
+    * Sample Output 1
+      > Length of the string: 19 */
 
 using System;
 
