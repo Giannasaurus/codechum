@@ -21,8 +21,4 @@ class Program {
 
 /** passed test cases
   * test case 1:
-  * test case 2:
-  * test case 3:
-  * test case 4:
-  * test case 5:
-  * test case 6: */
+    > Length of the string: 19 */
