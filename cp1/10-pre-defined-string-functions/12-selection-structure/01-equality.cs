@@ -33,6 +33,7 @@ class Program {
 }
 
 /** passed test cases
+  * Should use: If Statement
   * test case 1:
     > Enter x: 10
       Enter y: 10
