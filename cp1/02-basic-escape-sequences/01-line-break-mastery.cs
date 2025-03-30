@@ -1,9 +1,9 @@
-/** Line Break Mastery
-    Write a program that demonstrates the usage of \n to print "Hello" and "World!" on two separate lines.
+/* Line Break Mastery
+   Write a program that demonstrates the usage of \n to print "Hello" and "World!" on two separate lines.
   
-    * Sample Output 1
-      > Hello
-        World! */
+   * Sample Output 1
+     > Hello
+       World! */
 
 using System;
 
@@ -15,7 +15,7 @@ namespace Program {
     }
 }
 
-/** passed test cases
-  * test case 1:
-    > Hello
-      World! */
+/* passed test cases
+   * test case 1:
+     > Hello
+       World! */
