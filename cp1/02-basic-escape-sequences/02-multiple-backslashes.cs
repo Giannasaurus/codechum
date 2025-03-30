@@ -1,8 +1,8 @@
-/** Multiple Backslashes
-    Write a program that uses the appropriate escape sequences to print "These are backslashes: \\\", displaying multiple backslashes.
+/* Multiple Backslashes
+   Write a program that uses the appropriate escape sequences to print "These are backslashes: \\\", displaying multiple backslashes.
   
-    * Sample Output 1
-      > These are backslashes: \\\ */
+   * Sample Output 1
+     > These are backslashes: \\\ */
 
 using System;
 
@@ -14,6 +14,6 @@ namespace Program {
     }
 }
 
-/** passed test cases
-  * test case 1:
-    > These are backslashes: \\\ */
+/* passed test cases
+   * test case 1:
+     > These are backslashes: \\\ */
