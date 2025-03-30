@@ -1,18 +1,18 @@
-/** Database Record
-    Create a program that prints the following text:
+/* Database Record
+   Create a program that prints the following text:
   
-    Database Record
-    \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-    Name:        John Doe
-    Email:        john.doe@example.com
-    University:    ABC University
+   Database Record
+   \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+   Name:        John Doe
+   Email:        john.doe@example.com
+   University:    ABC University
   
-    * Sample Output 1
-      > Database Record
-        \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-        Name:		John Doe
-        Email:		john.doe@example.com
-        University:	ABC University */
+   * Sample Output 1
+     > Database Record
+       \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+       Name:		John Doe
+       Email:		john.doe@example.com
+       University:	ABC University */
 
 using System; 
 
@@ -24,10 +24,10 @@ namespace Program {
     }
 }
 
-/** passed test cases
-  * test case 1:
-    > Database Record
-      \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-      Name:		John Doe
-      Email:		john.doe@example.com
-      University:	ABC University */
+/* passed test cases
+   * test case 1:
+     > Database Record
+       \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+       Name:		John Doe
+       Email:		john.doe@example.com
+       University:	ABC University */
