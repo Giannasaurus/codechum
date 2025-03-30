@@ -1,8 +1,8 @@
-/** Displaying a Welcome Message
-    Write a program that greets the user by displaying the message "Hello, World!" on the console.
+/* Displaying a Welcome Message
+   Write a program that greets the user by displaying the message "Hello, World!" on the console.
   
-    * Sample Output 1
-      > Hello, World! */
+   * Sample Output 1
+     > Hello, World! */
 
 using System;
 
@@ -13,6 +13,6 @@ class MainClass {
     }
 }
 
-/** passed test cases
-  * test case 1:
+/* passed test cases
+   * test case 1:
     > Hello, World! */
