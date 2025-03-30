@@ -1,12 +1,12 @@
-/** Even Number Parade
-    Write a program that prints the first 5 even numbers, beginning from 2, with each number occupying its own line.
+/* Even Number Parade
+   Write a program that prints the first 5 even numbers, beginning from 2, with each number occupying its own line.
   
-    * Sample Output 1
-      > 2
-        4
-        6
-        8
-        10 */
+   * Sample Output 1
+     > 2
+       4
+       6
+       8
+       10 */
 
 using System;
 
@@ -24,10 +24,10 @@ class MainClass {
     }
 }
 
-/** passed test cases
-  * test case 1:
-    > 2
-      4
-      6
-      8
-      10 */
+/* passed test cases
+   * test case 1:
+     > 2
+       4
+       6
+       8
+       10 */
