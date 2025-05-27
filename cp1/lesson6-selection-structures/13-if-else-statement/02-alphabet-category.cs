@@ -32,23 +32,22 @@ class Program {
 }
 
 /** passed test cases:
-    * minimum requirement
-      > should use: if-else statement
-    * test case 1:
-      > Enter a character: a
-        The character is a vowel.
-    * test case 2:
-      > Enter a character: b
-        The character is a consonant.
-    * test case 3:
-      > Enter a character: A
-        The character is a vowel.
-    * test case 4:
-      > Enter a character: B
-        The character is a consonant.
-    * test case 5:
-      > Enter a character: e
-        The character is a vowel.
-    * test case 6:
-      > Enter a character: U
-        The character is a vowel. */
+  * should use: if-else statement
+  * test case 1:
+    > Enter a character: a
+      The character is a vowel.
+  * test case 2:
+    > Enter a character: b
+      The character is a consonant.
+  * test case 3:
+    > Enter a character: A
+     The character is a vowel.
+  * test case 4:
+    > Enter a character: B
+      The character is a consonant.
+  * test case 5:
+     > Enter a character: e
+       The character is a vowel.
+  * test case 6:
+     > Enter a character: U
+       The character is a vowel. */
