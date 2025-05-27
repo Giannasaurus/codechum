@@ -40,8 +40,7 @@ class Program {
 }
 
 /** passed test cases:
-  * minimum requirement:
-    > should use: if-else statement
+  * should use: if-else statement
   * test case 1:
     > Enter your age: 15
       You are not eligible to vote.
