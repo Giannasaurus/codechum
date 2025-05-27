@@ -1,5 +1,6 @@
 /** Same Sign
-    Write a program that takes two integers, num1 and num2, as input and checks if they have the same sign. If both num1 and num2 are greater than 0 or both are less than 0, it prints "Numbers have the same sign." Otherwise, it does nothing.
+    Write a program that takes two integers, num1 and num2, as input and checks if they have the same sign.
+    If both num1 and num2 are greater than 0 or both are less than 0, it prints "Numbers have the same sign." Otherwise, it does nothing.
 
     * Sample Output 1
       > Enter first number: 245
@@ -33,7 +34,7 @@ class Program {
 }
 
 /** passed test cases
-  * Should use: If Statement
+  * should use: if statement
   * test case 1:
     > Enter first number: 245
       Enter second number: 3
