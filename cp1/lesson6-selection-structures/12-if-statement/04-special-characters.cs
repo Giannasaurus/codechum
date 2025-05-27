@@ -29,6 +29,7 @@ class Program {
 }
 
 /** passed test cases
+  * should use: if statement
   * test case 1:
     > Enter character: !
       Character is a special character.
