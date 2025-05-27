@@ -34,6 +34,7 @@ class Program {
 }
 
 /** passed test cases
+  * should use: if statement
   * test case 1:
     > Enter the year: 2000
       Year is a leap year.
