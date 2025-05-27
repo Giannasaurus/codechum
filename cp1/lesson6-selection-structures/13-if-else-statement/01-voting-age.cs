@@ -40,23 +40,23 @@ class Program {
 }
 
 /** passed test cases:
-    * minimum requirement:
-      > should use: if-else statement
-    * test case 1:
-      > Enter your age: 15
-        You are not eligible to vote.
-    * test case 2:
-      > Enter your age: 18
-        You are eligible to vote.
-    * test case 3:
-      > Enter your age: 25
-        You are eligible to vote.
-    * test case 4:
-      > Enter your age: 30
-        You are eligible to vote.
-    * test case 5:
-      > Enter your age: 12
-        You are not eligible to vote.
-    * test case 6:
-      > Enter your age: 54
-        You are eligible to vote. */
+  * minimum requirement:
+    > should use: if-else statement
+  * test case 1:
+    > Enter your age: 15
+      You are not eligible to vote.
+  * test case 2:
+    > Enter your age: 18
+      You are eligible to vote.
+  * test case 3:
+    > Enter your age: 25
+      You are eligible to vote.
+  * test case 4:
+    > Enter your age: 30
+      You are eligible to vote.
+  * test case 5:
+    > Enter your age: 12
+      You are not eligible to vote.
+  * test case 6:
+    > Enter your age: 54
+      You are eligible to vote. */
