@@ -1,4 +1,6 @@
 # Table of Contents
+> [!NOTE]
+> The links to the topics of Lesson 3 and 4 lead to the same link as the title
 ## **Lesson 1:** [**Programming Fundamentals**](cp1/lesson1-programming-fundamentals) <br/>
 [Output Operations](cp1/lesson1-programming-fundamentals/01-output-operations) <br/>
 [Basic Escape Sequences](cp1/lesson1-programming-fundamentals/02-basic-escape-sequences) <br/>
@@ -19,6 +21,3 @@
 [If Statement](cp1/lesson6-selection-structures/12-if-statement) <br/>
 [If-Else Statement](cp1/lesson6-selection-structures/13-if-else-statement) <br/>
 [If-Else If-Else Statement](cp1/lesson6-selection-structures/14-if-else-if-else-statement)
-
-> [!NOTE]
-> The links to the topics of Lesson 3 and 4 lead to the same link as the title
