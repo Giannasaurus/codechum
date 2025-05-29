@@ -21,4 +21,4 @@
 [If-Else If-Else Statement](cp1/lesson6-selection-structures/14-if-else-if-else-statement)
 
 > [!NOTE]
-> The links to the topics of Lesson 3 and 4 lead to the same link.
+> The links to the topics of Lesson 3 and 4 lead to the same link as the title
