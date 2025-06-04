@@ -4,24 +4,25 @@
 
 ## C#
 ### **Lesson 1:** [**Programming Fundamentals**](cp1/lesson1-programming-fundamentals) <br/>
-[Output Operations](cp1/lesson1-programming-fundamentals/01-output-operations) <br/>
-[Basic Escape Sequences](cp1/lesson1-programming-fundamentals/02-basic-escape-sequences) <br/>
-[Input Operations](cp1/lesson1-programming-fundamentals/04-input-operations) <br/>
+01 [Output Operations](cp1/lesson1-programming-fundamentals/01-output-operations) <br/>
+02 [Basic Escape Sequences](cp1/lesson1-programming-fundamentals/02-basic-escape-sequences) <br/>
+03 [Placeholders](cp1/lesson1-programming-fundamentals/03-placeholders) <br/>
+04 [Input Operations](cp1/lesson1-programming-fundamentals/04-input-operations) <br/>
 ### **Lesson 2:** [Operators](cp1/lesson2-operators) <br/>
-[Arithmetic Operators](cp1/lesson2-operators/05-arithmetic-operators) <br/>
-[Assignment Operators](cp1/lesson2-operators/06-assignment-operators) <br/>
-[Bitwise Operators](cp1/lesson2-operators/07-bitwise-operators) <br/>
+05 [Arithmetic Operators](cp1/lesson2-operators/05-arithmetic-operators) <br/>
+06 [Assignment Operators](cp1/lesson2-operators/06-assignment-operators) <br/>
+07 [Bitwise Operators](cp1/lesson2-operators/07-bitwise-operators) <br/>
 ### **Lesson 3:** [Strings](cp1/lesson3-strings/08-string-handling) <br/>
-[String Handling](cp1/lesson3-strings/08-string-handling) <br/>
+08 [String Handling](cp1/lesson3-strings/08-string-handling) <br/>
 ### **Lesson 4:** [Typecasting](cp1/lesson4-typecasting/09-typecasting) <br/>
-[Typecasting](cp1/lesson4-typecasting/09-typecasting) <br/>
+09 [Typecasting](cp1/lesson4-typecasting/09-typecasting) <br/>
 ### **Lesson 5:** [Built-in Libraries](cp1/lesson5-built-in-libraries) <br/>
-[Pre-defined String Functions](cp1/lesson5-built-in-libraries/10-pre-defined-string-functions) <br/>
-[Pre-defined Math Functions](cp1/lesson5-built-in-libraries/11-pre-defined-math-functions) <br/>
+10 [Pre-defined String Functions](cp1/lesson5-built-in-libraries/10-pre-defined-string-functions) <br/>
+11 [Pre-defined Math Functions](cp1/lesson5-built-in-libraries/11-pre-defined-math-functions) <br/>
 ### **Lesson 6:** [Selection Structures](cp1/lesson6-selection-structures) <br/>
-[If Statement](cp1/lesson6-selection-structures/12-if-statement) <br/>
-[If-Else Statement](cp1/lesson6-selection-structures/13-if-else-statement) <br/>
-[If-Else If-Else Statement](cp1/lesson6-selection-structures/14-if-else-if-else-statement)
+12 [If Statement](cp1/lesson6-selection-structures/12-if-statement) <br/>
+13 [If-Else Statement](cp1/lesson6-selection-structures/13-if-else-statement) <br/>
+14 [If-Else If-Else Statement](cp1/lesson6-selection-structures/14-if-else-if-else-statement)
 
 ---
 > [!IMPORTANT]
