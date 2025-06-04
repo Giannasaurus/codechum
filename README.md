@@ -22,7 +22,8 @@
 ### **Lesson 6:** [Selection Structures](cp1/lesson6-selection-structures) <br/>
 12 [If Statement](cp1/lesson6-selection-structures/12-if-statement) <br/>
 13 [If-Else Statement](cp1/lesson6-selection-structures/13-if-else-statement) <br/>
-14 [If-Else If-Else Statement](cp1/lesson6-selection-structures/14-if-else-if-else-statement)
+14 [If-Else If-Else Statement](cp1/lesson6-selection-structures/14-if-else-if-else-statement) <br/>
+15 [Switch Statement](cp1/lesson6-selection-structures/15-switch-statement)
 
 ---
 > [!IMPORTANT]
