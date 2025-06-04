@@ -1,6 +1,7 @@
 # 📖 Table of Contents
 > [!NOTE]
 > The links to the topics of Lesson 3 and 4 lead to the same link as the title
+
 ## C#
 ### **Lesson 1:** [**Programming Fundamentals**](cp1/lesson1-programming-fundamentals) <br/>
 [Output Operations](cp1/lesson1-programming-fundamentals/01-output-operations) <br/>
