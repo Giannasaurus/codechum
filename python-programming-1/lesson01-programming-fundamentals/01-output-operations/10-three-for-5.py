@@ -14,7 +14,7 @@ Sample output
 
 def print5Times(num):
     for x in range(5):
-        print(f"{num}")
+        print(num)
      
 print5Times(3)
 
